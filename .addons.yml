@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  dash:
+    repository: "https://github.com/satishrbm/hotel-dash-main"
+    image: "ghcr.io/satishrbm/hotel-dash-main:latest"
+    target: hotel_dash
